@@ -158,6 +158,12 @@ This project demonstrates practical skills in:
 * Dashboard Development
 * Data-driven Decision Making
 
+
+## 🚀 Live Dashboard
+
+👉 [View the Live Content Analytics Dashboard](https://content-analytics-dashboard-5gmc33hobq9455prkpbjlg.streamlit.app/)
+
+
 ## 👩‍💻 Author
 
 **Akshaya**
